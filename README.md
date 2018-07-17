@@ -1,2 +1,2 @@
 # hello-world
-Just a  repository
+This is my personal JAVA learning path.
